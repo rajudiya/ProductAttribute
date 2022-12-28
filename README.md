@@ -8,7 +8,7 @@ Creates custom CMS block with content along with product attribute `Condensing`
 
 - `composer config repositories.ProductAttribute vcs https://github.com/rajudiya/ProductAttribute`
 
-- `composer require custom/product-attribute`
+- `composer require custom/product-attribute:dev-main`
 
 ## Composer uninstall
 
